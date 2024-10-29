@@ -1,6 +1,6 @@
 <div>
   <h1>Wanderlust</h1>
-  <h2>The Ultimate Travel Blog 🌍✈️ for You </h2>
+  <h2>The Ultimate Travel Blog 🌍✈️ for You and your Family</h2>
 </div>
 
 ![Preview Image](https://github.com/krishnaacharyaa/wanderlust/assets/116620586/17ba9da6-225f-481d-87c0-5d5a010a9538)
@@ -122,3 +122,4 @@ We extend our heartfelt gratitude for your invaluable contribution to our projec
   <img width="90%" src="https://contrib.rocks/image?repo=krishnaacharyaa/wanderlust" />
 </a>
 </div>
+
